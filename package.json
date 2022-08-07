@@ -35,5 +35,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/piecioshka/boilerplate-webpack-babel"
+    },
+    "dependencies": {
+        "regenerator-runtime": "^0.13.9"
     }
 }
